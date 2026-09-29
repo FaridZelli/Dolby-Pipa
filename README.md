@@ -12,7 +12,6 @@
 
 <br>
 <br>
-<br>
 
 This is a Lunaris Dolby Manager preset for the Xiaomi Pad 6. It aims to deliver balanced sound throughout everyday use in a variety of form factors.  
   
