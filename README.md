@@ -37,6 +37,10 @@ You'll need:
 </picture>
 
 ### Part 1
+
+> [!TIP]
+> Sometimes you may need to disable and re-enable Dolby for processing to take effect.
+
 Choose the "Music" profile and import the EQ preset from releases as follows:
 
 <picture>
