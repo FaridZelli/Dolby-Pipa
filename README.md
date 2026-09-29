@@ -16,7 +16,9 @@
 This is a Lunaris Dolby Manager preset for the Xiaomi Pad 6. It aims to deliver balanced sound throughout everyday use in a variety of form factors.  
   
 Currently evaluated on:  
+  
 `crDroidAndroid-16.0-20260923-pipa-v12.12`
+  
 `NLSound.v4.5.Qcom.Devices`
 
 <picture>
@@ -45,12 +47,12 @@ Choose the "Music" profile and import the EQ preset from releases as follows:
 
 <picture>
   <source media="(min-width: 769px)" srcset="media/1.png">
-  <img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" alt="" width="40%" align="left">
+  <img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" alt="" width="45%" align="left">
 </picture>
 
 <picture>
   <source media="(min-width: 769px)" srcset="media/2.png">
-  <img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" alt="" width="40%" align="left">
+  <img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" alt="" width="45%" align="left">
 </picture>
 
 <picture>
@@ -60,12 +62,12 @@ Choose the "Music" profile and import the EQ preset from releases as follows:
 
 <picture>
   <source media="(min-width: 769px)" srcset="media/3.png">
-  <img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" alt="" width="40%" align="left">
+  <img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" alt="" width="45%" align="left">
 </picture>
 
 <picture>
   <source media="(min-width: 769px)" srcset="media/4.png">
-  <img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" alt="" width="40%" align="left">
+  <img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" alt="" width="45%" align="left">
 </picture>
 
 <picture>
